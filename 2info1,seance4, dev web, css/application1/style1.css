@@ -1,0 +1,41 @@
+ /* Les balises s'affichant en "block" (bloc) : elles prennent toute la largeur disponible et s'affichent avec un saut de ligne avant et après.*/
+
+h2 {
+    font-size:2em;
+    
+}
+
+ul
+{
+	
+	list-style-image:url(./Images/bullet.gif);
+	
+}
+
+
+
+p {
+font-size:11px;
+margin:5px 0 5px;
+text-align:justify;
+}
+
+
+a:link, a:visited {
+color:#319FFF;
+text-decoration:none;
+}
+
+
+
+a:hover {
+color:#726F61;
+text-decoration:none;
+}
+
+html
+{
+    background-color: #FFB9B9;
+    height: 100%;
+    color: #1E1C1C;
+}
